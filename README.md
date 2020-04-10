@@ -1,0 +1,1 @@
+This is Atrejus first git Project. Learning Web Dev with TheOdinProject.
